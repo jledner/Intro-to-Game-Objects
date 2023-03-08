@@ -8,7 +8,7 @@ public class ForkliftLogic : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Invoke("RaiseForklift",3);
+
     }
 
     void RaiseForklift(){
